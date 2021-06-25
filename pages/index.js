@@ -8,10 +8,9 @@ const ClerkFeatures = () => (
     <a className={styles.cardContent}>
       <img src="/icons/layout.svg" />
       <div>
-        <h3>Explore features provided by Clerk</h3>
+        <h3>You're logged in!</h3>
         <p>
-          Interact with the user button, user profile, and more to preview what
-          your users will see
+         Check your user profile here.
         </p>
       </div>
       <div className={styles.arrow}>
@@ -74,7 +73,7 @@ const Footer = () => (
 const Home = () => (
   <div className={styles.container}>
     <Head>
-      <title>Create Next App</title>
+      <title>everydayMāori</title>
       <link rel="icon" href="/favicon.ico" />
       <meta
         name="viewport"

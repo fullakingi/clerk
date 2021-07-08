@@ -45,8 +45,8 @@ const SignupLink = () => (
 // https://docs.clerk.dev/frontend/react/signedin-and-signedout
 const Main = () => (
   <main className={styles.main}>
-    <h1 className={styles.title}>Nau mai ki everydayMāori</h1>
-    <p className={styles.description}>Kia rere</p>
+    <h1 className={styles.title}>Build a website quickly</h1>
+    <p className={styles.description}>Kia maia, kia ita!</p>
 
     <div className={styles.cards}>
       <div className={styles.card}>
